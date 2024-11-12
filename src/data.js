@@ -1,0 +1,1 @@
+export const questions=[{id:Math.random(),q:"what is your job?",a:"I'am a software engineer"}]
